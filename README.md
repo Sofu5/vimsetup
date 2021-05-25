@@ -1,0 +1,2 @@
+# vimsetup
+Setup of .vimrc
